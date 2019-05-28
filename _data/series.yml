@@ -1,0 +1,4 @@
+- name: System Configuration
+  desc: |
+    Details about my system
+  tag_name: system-configuration
